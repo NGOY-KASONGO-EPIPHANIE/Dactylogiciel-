@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1718463129 source:c:\users\keren\desktop\ruej\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	"fonction.h"
+
+1718463129 c:\users\keren\desktop\ruej\fonction.h
+
+1718463138 source:c:\users\keren\desktop\ruej\main.c
+	"fonction.h"
+
